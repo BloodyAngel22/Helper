@@ -1,9 +1,7 @@
 # Creating your PostgreSQL database
 
-<div>
-	In your terminal:
-</div>
+#### In your terminal:
 
-```sh
+```bash
 createdb -U your_user_name -d your_database_name
 ```

@@ -1,9 +1,7 @@
 # Exporting your PostgreSQL database
 
-<div>
-	In your terminal:
-</div>
+#### In your terminal:
 
-```sh
+```bash
 pg_dump -U user_name -d database_name > your_database_export.sql
 ```

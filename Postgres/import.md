@@ -1,24 +1,15 @@
 # Importing your PostgreSQL database
 
 ### Warning: 
-<div>
-	Before you can import a postgres database, you need to create a database to import data into.
-	<br>
-	<br>
-</div>
+Before you can import a postgres database, you need to create a database to import data into. 
 
 ### Creating a postgres database:
-[create.md](https://github.com/BloodyAngel22/Notes/blob/main/Postgres/create.md)
-
-<br>
+[Create a database](https://github.com/BloodyAngel22/Notes/blob/main/Postgres/create.md)
 
 ###	Importing a postgres database:
 
-<div>
-	In your terminal:
-</div>
+#### In your terminal:
 
-```sh
+```bash
 psql -U postgres -d import_questions -f questions.sql
 ```
-
