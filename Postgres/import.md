@@ -9,7 +9,7 @@
 
 ### Creating a postgres database:
 <div>
-	https://clck.ru/39HxWS
+	[Create a database](https://github.com/BloodyAngel22/Notes/blob/main/Postgres/create.md)
 </div>
 
 <br>
