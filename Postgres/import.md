@@ -11,5 +11,5 @@ Before you can import a postgres database, you need to create a database to impo
 #### In your terminal:
 
 ```bash
-psql -U postgres -d import_questions -f questions.sql
+psql -U postgres -d import_database -f database.sql
 ```
